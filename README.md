@@ -1,7 +1,7 @@
 # Tours-app-REACT
 #
 A beautifully designed app using react.js framework. 
-.
+/
 Basically the app shows 5 different destination for tourism and can be viewed to understand the places shown.
 .
 The data(Images, names, information) used in the app are from an external api 'https://course-api.com/react-tours-project'
